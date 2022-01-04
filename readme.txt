@@ -1,3 +1,3 @@
 Hello world!
 
-i work for th City of Dallas
+I work for the City of Dallas.
